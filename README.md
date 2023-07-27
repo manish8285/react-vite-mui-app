@@ -1,8 +1,7 @@
-# React + Vite
+# A simple react application that has been developed using vite.js and material ui
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### check it out on 
+https://64c236a381a48f6e6d27acf5--cozy-haupia-47ad2d.netlify.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![page1](https://github.com/manish8285/react-vite-mui-app/assets/113131864/0296e63a-5d8f-4a80-83d5-2b17ee2e9763)
+![page2](https://github.com/manish8285/react-vite-mui-app/assets/113131864/40296d56-3d20-4996-877e-a9e041486dcd)
